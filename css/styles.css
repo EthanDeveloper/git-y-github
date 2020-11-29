@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+body h2,p{
+    font-family: "Open Sans";
+    margin: 50px;
+    padding: 50px;
+    background: crimson;
+    color: #fff;
+}

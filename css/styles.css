@@ -9,3 +9,8 @@ body h2,p{
     background: crimson;
     color: #fff;
 }
+
+h2{
+    border: solid green 5px;
+    text-decoration: underline;
+}

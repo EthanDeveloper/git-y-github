@@ -14,3 +14,11 @@ h2{
     border: solid green 5px;
     text-decoration: underline;
 }
+
+ul{
+    text-align: left;
+}
+
+ul li{
+    font-family: "Open Sans";
+}

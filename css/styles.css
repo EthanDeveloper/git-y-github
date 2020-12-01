@@ -4,13 +4,13 @@ body{
 
 body h2,p{
     font-family: "Open Sans";
-    margin: 50px;
-    padding: 50px;
-    background: crimson;
-    color: #fff;
+    font-weight: normal;
+    margin: 0.5em;
+    padding: 0.5em;
+    background: transparent;
+    color: rgb(37, 37, 37);
 }
 
 h2{
-    border: solid green 5px;
     text-decoration: underline;
 }
